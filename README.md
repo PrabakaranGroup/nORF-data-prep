@@ -3,8 +3,8 @@ This repository contains the supporting code for our manuscript "A platform for 
 ## 1. nORF_Data_Prep.Rmd
 This is a complete walkthrough for processing [OpenProt](http://www.openprot.org/) ([Brunet et al., 2018](https://doi.org/10.1093/nar/gky936)) and [sorfs.org](http://www.sorfs.org/) ([Olexiouk et al., 2018](https://doi.org/10.1093/nar/gkx1130)) into a human novel open reading frame (nORF) dataset. This code can be run to reproduce the nORFs datasets available at nORFs.org and used as input for the manuscript analyses.
 
-## 2. nORF_Data_Prep.Rmd
-This code can be used to generate all tables/figures (excluding diagrams) in the manuscript and details all R code used in analyses.
+## 2. nORF_Analysis.Rmd
+This code can be used to generate tables/figures from the manuscript and details all R code used in analyses.
 
 ## Authors
 
